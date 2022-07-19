@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background-color: #393E46;
+    color: #fff;
+}
+
+.dice-container{
+    display: flex;
+    justify-content:space-evenly;
+    margin-bottom: 30px;
+}
+
+.roll{
+    background-color: #63458A;
+    border-radius: 5px;
+    align-self: center;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-size: 2rem;
+    cursor: pointer;
+}
+.roll:hover{
+    background-color: #36234F;
+}
+
+button{
+    
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+}
+
+h1{
+    margin: 10px auto;
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+}
+p,h1{
+    color: #4ECCA3;
+}
+p{
+    font-size: 2rem;
+}
